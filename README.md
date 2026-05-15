@@ -1,5 +1,6 @@
 # Excel Production Dashboard Analysis 
-<img width="30" height="30" alt="icons8-microsoft-excel-30">
+
+<img width="30" height="30" alt="icons8-microsoft-excel-30" />
 
 ## Project Overview
 This project focuses on analyzing production performance and operational trends using Microsoft Excel dashboards, Pivot Tables, and interactive visualizations.

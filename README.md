@@ -34,7 +34,7 @@ The dashboard helps monitor:
 
 # 📈 Dashboard Preview
 
-<img width="500" height="500" alt="main-dashboard" src="https://github.com/user-attachments/assets/ad98550a-dc2e-4c6c-a38d-77ec2feb9744" />
+<img width="1000" height="500" alt="main-dashboard" src="https://github.com/user-attachments/assets/ad98550a-dc2e-4c6c-a38d-77ec2feb9744" />
 
 # 👤 AUTHOR :-
 

@@ -1,4 +1,4 @@
- Excel Production Dashboard Analysis <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="80"/>
+# Excel Production Dashboard Analysis <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="30"/>
 
 
 ## Project Overview

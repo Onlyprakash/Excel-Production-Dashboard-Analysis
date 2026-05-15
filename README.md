@@ -1,5 +1,5 @@
-# Excel Production Dashboard Analysis 
-![Excel](https://img.shields.io/badge/Tool-Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+ Excel Production Dashboard Analysis <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="80"/>
+
 
 ## Project Overview
 This project focuses on analyzing production performance and operational trends using Microsoft Excel dashboards, Pivot Tables, and interactive visualizations.

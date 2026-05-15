@@ -32,5 +32,7 @@ The dashboard helps monitor:
 - Furniture category showed high average production cost per unit.
 
 # Dashboard Preview
-<img src="dashboard-preview/main-dashboard.png" width="1000">
+
+<img width="1321" height="736" alt="main-dashboard" src="https://github.com/user-attachments/assets/ad98550a-dc2e-4c6c-a38d-77ec2feb9744" />
+
 

@@ -11,6 +11,10 @@ The dashboard helps monitor:
 - Production volume over time
 - Average production cost insights
 
+# 📈 Dashboard Preview
+
+<img width="1000" height="500" alt="main-dashboard" src="https://github.com/user-attachments/assets/ad98550a-dc2e-4c6c-a38d-77ec2feb9744" />
+
 # 🛠️ Tools Used
 - Microsoft Excel
 - Pivot Tables
@@ -31,10 +35,6 @@ The dashboard helps monitor:
 - Production volume peaked during specific months.
 - Task distribution varied significantly across managers.
 - Furniture category showed high average production cost per unit.
-
-# 📈 Dashboard Preview
-
-<img width="1000" height="500" alt="main-dashboard" src="https://github.com/user-attachments/assets/ad98550a-dc2e-4c6c-a38d-77ec2feb9744" />
 
 # 👤 AUTHOR :-
 
